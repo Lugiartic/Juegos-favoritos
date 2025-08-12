@@ -60,5 +60,8 @@ body{
 
   body {
     padding: 1rem;
+    display: inline-block;
+    max-width: 100%;
   }
 }
+
