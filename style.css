@@ -44,4 +44,19 @@ body{
 
 .icono img{
     display: inline-block;
+
+}
+
+@media (max-width: 600px) {
+  table {
+    font-size: 0.9rem;
+  }
+
+  td, th {
+    padding: 0.5rem;
+  }
+
+  .contenido {
+    padding: 1rem;
+  }
 }
